@@ -25,3 +25,9 @@ Navigate to the project directory:
  **Font Awesome**: Used for displaying category icons.<br>
 
  # Demo : https://ecommerce-cart-api.netlify.app/
+
+ # Snapshot
+
+ ![image](https://github.com/itsaman123/Ecommerce-Cart-Frontend/assets/84653396/392fa2cb-a8c7-4c3b-8e38-b8e7f67f85fc)
+
+

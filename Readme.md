@@ -1,6 +1,5 @@
-# Coding Assessment L2 Boilerplate
-
-This project provides a boilerplate for a coding assessment. It includes a responsive web page with category tabs (Men, Women, Kids) and product cards fetched from an API. The product cards display essential details such as image, title, vendor, price, and compare at price. Additionally, there is an "Add to Cart" button for each product.
+# Ecommerce Cart Frontend
+This project includes a responsive web page with category tabs (Men, Women, Kids) and product cards fetched from an API. The product cards display essential details such as image, title, vendor, price, and compare at price. Additionally, there is an "Add to Cart" button for each product.
 
 ## Getting Started
 
